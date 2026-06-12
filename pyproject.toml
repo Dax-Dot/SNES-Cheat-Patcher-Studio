@@ -1,0 +1,67 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snes-cheat-patcher-studio"
+dynamic = ["version"]
+description = "Safe SNES Game Genie ROM patcher with No-Intro identification and integrated cheat catalog"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "GPL-3.0-or-later"}
+authors = [{name = "Dax-Dot"}]
+maintainers = [{name = "Dax-Dot"}]
+keywords = [
+    "snes",
+    "super-nintendo",
+    "game-genie",
+    "rom-patcher",
+    "cheats",
+    "tkinter",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Win32 (MS Windows)",
+    "Environment :: X11 Applications",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows :: Windows 11",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Games/Entertainment",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Dax-Dot/SNES-Cheat-Patcher-Studio"
+Repository = "https://github.com/Dax-Dot/SNES-Cheat-Patcher-Studio"
+Issues = "https://github.com/Dax-Dot/SNES-Cheat-Patcher-Studio/issues"
+Releases = "https://github.com/Dax-Dot/SNES-Cheat-Patcher-Studio/releases"
+
+[project.gui-scripts]
+snes-cheat-patcher-studio = "snes_cheat_patcher.gui:main"
+
+[tool.setuptools.dynamic]
+version = {attr = "snes_cheat_patcher.__version__"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+snes_cheat_patcher = ["data/*.json", "assets/*.png", "assets/*.ico"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+exclude = ["build", "dist", ".build-venv", ".venv"]
+
+[tool.ruff.lint]
+select = ["E", "F"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*.py" = ["E402"]

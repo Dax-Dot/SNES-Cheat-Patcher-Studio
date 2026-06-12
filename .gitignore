@@ -1,0 +1,38 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.build-venv/
+venv/
+env/
+
+# Test and coverage output
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Packaging output
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Runtime logs and crash reports
+*.log
+SNES-Cheat-Patcher-crash.log
+
+# ROMs and generated patch output
+*.sfc
+*.smc
+*.fig
+*.swc
+*.ips
+*.bps
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

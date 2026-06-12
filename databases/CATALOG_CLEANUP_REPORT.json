@@ -1,0 +1,2996 @@
+{
+  "catalog_summary": {
+    "games": 967,
+    "cheats": 11988,
+    "codes": 19038
+  },
+  "verified_rom_revisions": 977,
+  "source_summary": {
+    "games_with_crc32": 1053,
+    "games_without_crc32": 16,
+    "total_cheats": 13363,
+    "total_codes": 21517
+  },
+  "excluded_unlinked_games": [
+    {
+      "crc32": "AD4AD163",
+      "title": "3x3 Eyes - Juuma Houkan (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "F73A6E33",
+      "title": "Ardy Lightfoot (Japan) (Beta)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "6B54BE97",
+      "title": "Ashita no Joe (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "9B5D585D",
+      "title": "Baby T-Rex (USA) (Sample)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "49C187F3",
+      "title": "Bazooka Blitzkrieg (USA)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "E3A4F6EA",
+      "title": "Beavis and Butt-head (U) [hI]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "18BBEE33",
+      "title": "Bobby's World (USA) (Proto)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "57B1C3ED",
+      "title": "BS F-ZERO Grand Prix 2 (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "137999CD",
+      "title": "BS Kaizou Choujin Shubibinman Zero (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "660B8CC4",
+      "title": "BS Radical Dreamers (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "81042DAB",
+      "title": "BS Super Mario Collection 3 (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "88FA31CC",
+      "title": "BS Super Mario USA 1 (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "DEDB049D",
+      "title": "BS Super Mario USA 2 (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "C0C90A80",
+      "title": "BS Super Mario USA 3 (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "D05B537C",
+      "title": "BS Super Mario USA 4 (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "0D2B95A8",
+      "title": "BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (BS)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "32DCB439",
+      "title": "BS Zelda no Densetsu - Kamigami no Triforce (J) [!]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "F01EEB07",
+      "title": "BS Zelda no Densetsu Remix (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "3F3A7180",
+      "title": "Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 2)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "D6990514",
+      "title": "Buck Rodgers: The Arcade Game",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "EDA91EE1",
+      "title": "Castlevania II (World)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "6EA452A4",
+      "title": "Dr. Mario (Japan) (BS)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "4D30D980",
+      "title": "Dragon Ball Z - Super Butouden 2 (J) (V1.0) [f1]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "150C6F4B",
+      "title": "Dragon Ball Z - Super Butouden 3 (J) [f1]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "1B644433",
+      "title": "Dynamaite - The Las Vegas (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "EE96809C",
+      "title": "Final Fantasy IV (J) [T+Eng3.21_J2E][h1]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "D1909FFB",
+      "title": "Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "14C66FCA",
+      "title": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan) (ST)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "BF428F46",
+      "title": "Gousou Shinrai Monogatari - Musya (J) [h1C]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "54AB6711",
+      "title": "Hamelin no Violin Hiki (J) [T+Eng1.0_J2E]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "82FF23BC",
+      "title": "Hook (USA) (Beta)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "EC7A2ED3",
+      "title": "Joe & Mac 2 - Lost in the Tropics (USA) (Beta)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "5E5BA3F0",
+      "title": "Kaizou Chounin Shubibinman Zero (Japan) (BS)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "F3C44423",
+      "title": "Kamen Rider (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "A9B49B5B",
+      "title": "King Arthur & The Knights of Justice (U) [h1]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "9D9BBD09",
+      "title": "Kirby no Omochabako - Pinball (Japan) (BS)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "618FF6E4",
+      "title": "Legend (U) (16725) [h1]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "5278EDB5",
+      "title": "Marchen Adventure Cotton 100% (J) [h1C]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "53524952",
+      "title": "Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "8D7B1828",
+      "title": "NBA Jam - Tournament Edition (USA) (Beta)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "72BDAFBB",
+      "title": "Nekotako (Japan) (Aftermarket) (Unl)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "9D852B88",
+      "title": "Neugier (J) [T+Eng1.10_Haeleth]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "2B50F2AF",
+      "title": "New Super Mario Land (Japan v1.5)",
+      "reason": "No-Intro entry without verifiable SHA-256/size"
+    },
+    {
+      "crc32": "5327C524",
+      "title": "Nightmare Busters (Europe) (Proto)",
+      "reason": "No-Intro entry without verifiable SHA-256/size"
+    },
+    {
+      "crc32": "F9171003",
+      "title": "Popeye - Ijiwaru Majo Sea Hag no Maki (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "BE3048B6",
+      "title": "Radical Dreamers - Nusume Nai Houseki (Japan) (BS)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "0A2E4C2F",
+      "title": "Rushing Beat Shura (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "4C46E9FB",
+      "title": "Secret of Mana Rev 1 (1994)(Square)(EU)(en)[tr es][a2]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "4E778BEE",
+      "title": "Shin Kidou Senki Gundam W - Endless Duel (J) [h1C]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "31BE696C",
+      "title": "Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "47334686",
+      "title": "SMC-SWC Copier Tool V1 (Gameboy Copy Hack) (PD)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "3F09A8D9",
+      "title": "Sougou Kakutougi Rings - Astral Bout 3 (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "A31D5467",
+      "title": "Street Fighter II - The World Warrior (1992)(Capcom)(US)[h2]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "1CDC3DB0",
+      "title": "Super Genjin 2 (J) [T+Eng1.00_Gaijin]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "BEADFD61",
+      "title": "Super Shadow of the Beast (USA) (Proto)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "02C110E4",
+      "title": "Super Star Wars (U) (V1.1) [!]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "61441201",
+      "title": "Super Uno (Japan)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "E5C7600F",
+      "title": "Super V.G. (J) [h1]",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "BF6CAB42",
+      "title": "Tamori no Picross (Japan) (6-13) (BS)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "066687CA",
+      "title": "Tekken 2 (World) (Unl)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "91AD7EE0",
+      "title": "Undake 30 - Same Game (J)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    },
+    {
+      "crc32": "399669F2",
+      "title": "Zombies (Europe) (Beta)",
+      "reason": "CRC not present in the supplied No-Intro database"
+    }
+  ],
+  "excluded_no_crc_games": [
+    {
+      "title": "Contra (Infidelity)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Ducktales SNES",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Legend of Zelda, The - Parallel Worlds (USA) [Hack]",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Legend of Zelda, The - Parallel Worlds Remodel",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Mega Man 3 (Infidelity)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Mega Man 5 (Infidelity)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Mega Man 6 (Infidelity)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Mega Man II (Rev C - infidelity)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Mega Man X (SA-1 Hack)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Super Mario World - The Secret of the 7 Golden Statues",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Super Metroid Redesign",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Super Metroid Redesign: Axeil Edition (USA)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Sure Instinct v1.0.2 NTSC (USA)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Sydney Hunter and the Caverns of Death (USA)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Till & Hat - Demo A (U)",
+      "reason": "no verifiable CRC32"
+    },
+    {
+      "title": "Zelda no Densetsu - Kamigami no Triforce (Randomizer)",
+      "reason": "no verifiable CRC32"
+    }
+  ],
+  "rejected_cheats": [
+    {
+      "crc32": "20143571",
+      "title": "Advanced Dungeons & Dragons - Eye of the Beholder (USA)",
+      "cheat": "Infinite HP",
+      "reason": "82DE-049B apunta a Low RAM (mirror) ($0605F9)"
+    },
+    {
+      "crc32": "E344627B",
+      "title": "Alfred Chicken (Europe)",
+      "cheat": "Jump in Midair",
+      "reason": "0000-0000 apunta a Hardware registers ($114141)"
+    },
+    {
+      "crc32": "8D56598B",
+      "title": "B.O.B. (Europe)",
+      "cheat": "Jump in Midair",
+      "reason": "0000-0000 apunta a Hardware registers ($114141)"
+    },
+    {
+      "crc32": "2E70C844",
+      "title": "Beauty and the Beast (Europe)",
+      "cheat": "Some enemies do not move for longer after a scream",
+      "reason": "D6F2-1DDB apunta a Low RAM (mirror) ($8215D0)"
+    },
+    {
+      "crc32": "4328BD1B",
+      "title": "Boogerman - A Pick and Flick Adventure (Europe)",
+      "cheat": "Jump in Midair",
+      "reason": "0000-0000 apunta a Hardware registers ($114141)"
+    },
+    {
+      "crc32": "1899AAFF",
+      "title": "Boogerman - A Pick and Flick Adventure (USA)",
+      "cheat": "Jump in Midair",
+      "reason": "0000-0000 apunta a Hardware registers ($114141)"
+    },
+    {
+      "crc32": "718CB0DF",
+      "title": "Brainies, The (USA)",
+      "cheat": "Start On Level",
+      "reason": "2542-D706 apunta a Hardware registers ($0220DD)"
+    },
+    {
+      "crc32": "74F70A0B",
+      "title": "Brandish (USA)",
+      "cheat": "Active Sword Modifier With Infinite Swings",
+      "reason": "DD56-A2D7 apunta a SRAM ($307F84)"
+    },
+    {
+      "crc32": "74F70A0B",
+      "title": "Brandish (USA)",
+      "cheat": "Have Over 10,000,000 Gold",
+      "reason": "FD53-A3D7 apunta a SRAM ($307FE8)"
+    },
+    {
+      "crc32": "74F70A0B",
+      "title": "Brandish (USA)",
+      "cheat": "Have Over 10,000,000 Gold #2",
+      "reason": "FD53-A3D7 apunta a SRAM ($307FE8)"
+    },
+    {
+      "crc32": "D0D172FA",
+      "title": "Bubsy II (USA)",
+      "cheat": "Note",
+      "reason": "2542-D706 apunta a Hardware registers ($0220DD)"
+    },
+    {
+      "crc32": "696458B3",
+      "title": "Casper (Japan)",
+      "cheat": "Have all the Keys",
+      "reason": "EE19-020F apunta a SRAM ($306555)"
+    },
+    {
+      "crc32": "696458B3",
+      "title": "Casper (Japan)",
+      "cheat": "Infinite Balls",
+      "reason": "DB14-DEDD apunta a SRAM ($30602C)"
+    },
+    {
+      "crc32": "696458B3",
+      "title": "Casper (Japan)",
+      "cheat": "Infinite Energy",
+      "reason": "D914-D3DD apunta a SRAM ($306028)"
+    },
+    {
+      "crc32": "2D206BF7",
+      "title": "Chrono Trigger (USA)",
+      "cheat": "Enable New Game+",
+      "reason": "EE53-AA67 apunta a SRAM ($307FE2)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Ammo (Pistol & Gatlin Gun) (&)",
+      "reason": "4D0D-6DC9 apunta a Hardware registers ($094602)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Ammo (Plasma Gun) (&)",
+      "reason": "4D0D-6DC9 apunta a Hardware registers ($094602)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Ammo (Rocket Launcher & BFG 9000) (&)",
+      "reason": "4D0D-6DC9 apunta a Hardware registers ($094602)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Ammo (Shotgun) (&)",
+      "reason": "4D0D-6DC9 apunta a Hardware registers ($094602)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Armor (&)",
+      "reason": "400D-6DC9 apunta a Hardware registers ($094602)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Health",
+      "reason": "705A-AEC8 apunta a SRAM ($3A7FCE)"
+    },
+    {
+      "crc32": "09E85EA6",
+      "title": "Doom (USA)",
+      "cheat": "Infinite Health (&)",
+      "reason": "E309-64C9 apunta a Hardware registers ($09465A)"
+    },
+    {
+      "crc32": "F4AB1557",
+      "title": "Dragon Ball Z - Hyper Dimension (Japan)",
+      "cheat": "Enemy Always Has 0 Health",
+      "reason": "DD71-6ADD apunta a Hardware registers ($303260)"
+    },
+    {
+      "crc32": "F4AB1557",
+      "title": "Dragon Ball Z - Hyper Dimension (Japan)",
+      "cheat": "Enemy Always Has 1 Health",
+      "reason": "DF71-6ADD apunta a Hardware registers ($303260)"
+    },
+    {
+      "crc32": "F4AB1557",
+      "title": "Dragon Ball Z - Hyper Dimension (Japan)",
+      "cheat": "Enemy Always Has Little Health",
+      "reason": "DD71-6A0D apunta a Hardware registers ($303261)"
+    },
+    {
+      "crc32": "F4AB1557",
+      "title": "Dragon Ball Z - Hyper Dimension (Japan)",
+      "cheat": "You Always Have At Least 255 Health",
+      "reason": "EE71-0ADD apunta a Hardware registers ($303160)"
+    },
+    {
+      "crc32": "DC9BB451",
+      "title": "EarthBound (USA)",
+      "cheat": "Multi-Task Code NOTE",
+      "reason": "2542-D706 apunta a Hardware registers ($0220DD)"
+    },
+    {
+      "crc32": "65D0A825",
+      "title": "Final Fantasy II (USA)",
+      "cheat": "Have A Final Party Of Cecil, Kain, Tellah, Kid Rydia And Cid Codes",
+      "reason": "DDDD-DDDD apunta a Low RAM (mirror) ($000000)"
+    },
+    {
+      "crc32": "45EF5AC8",
+      "title": "Final Fantasy VI (Japan)",
+      "cheat": "# of Steps Modifier (32-Bit Code)",
+      "reason": "DDF1-DF64 apunta a Low RAM (mirror) ($001866)"
+    },
+    {
+      "crc32": "E51FB6F8",
+      "title": "Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan)",
+      "cheat": "Alternate Invincibility",
+      "reason": "9DD7-ADDF apunta a Low RAM (mirror) ($000730)"
+    },
+    {
+      "crc32": "9F717D76",
+      "title": "Gourmet Sentai Barayarou (Japan)",
+      "cheat": "Infinite Energy",
+      "reason": "6DD8-6FDD apunta a Low RAM (mirror) ($0002B4)"
+    },
+    {
+      "crc32": "9F717D76",
+      "title": "Gourmet Sentai Barayarou (Japan)",
+      "cheat": "Infinite Energy #2",
+      "reason": "C94A-AF01 apunta a Hardware registers ($012BC5)"
+    },
+    {
+      "crc32": "1903EA89",
+      "title": "Great Circus Mystery Starring Mickey & Minnie, The (USA)",
+      "cheat": "Infinite Lives",
+      "reason": "C9F1-D4D0 apunta a Low RAM (mirror) ($011068)"
+    },
+    {
+      "crc32": "8E0A7034",
+      "title": "Hagane - The Final Conflict (USA)",
+      "cheat": "Infinite Health",
+      "reason": "C203-07DD apunta a Hardware registers ($0041EC)"
+    },
+    {
+      "crc32": "FB500926",
+      "title": "Hameln no Violin Hiki (Japan)",
+      "cheat": "Infinite Energy",
+      "reason": "C9DC-6761 apunta a Low RAM (mirror) ($010AAE)"
+    },
+    {
+      "crc32": "FB500926",
+      "title": "Hameln no Violin Hiki (Japan)",
+      "cheat": "Infinite Lives",
+      "reason": "C2DB-0FD0 apunta a Low RAM (mirror) ($010194)"
+    },
+    {
+      "crc32": "FB500926",
+      "title": "Hameln no Violin Hiki (Japan)",
+      "cheat": "Infinite Time",
+      "reason": "C2DB-AD0B apunta a Low RAM (mirror) ($020791)"
+    },
+    {
+      "crc32": "543F3327",
+      "title": "Inindo - Way of the Ninja (USA)",
+      "cheat": "Special Note For All Codes",
+      "reason": "EE79-D96B apunta a Hardware registers ($123456)"
+    },
+    {
+      "crc32": "37D8AC57",
+      "title": "Kawasaki Caribbean Challenge (USA)",
+      "cheat": "Races Are 3 Laps",
+      "reason": "DD7D-4DD6 apunta a Hardware registers ($823000)"
+    },
+    {
+      "crc32": "37D8AC57",
+      "title": "Kawasaki Caribbean Challenge (USA)",
+      "cheat": "Races Are 4 Laps",
+      "reason": "DDDD-D6DA apunta a Low RAM (mirror) ($230000)"
+    },
+    {
+      "crc32": "252C1DA7",
+      "title": "Killer Instinct (USA)",
+      "cheat": "Gives Spinal A Large Laserbeam That Emits From His Sword When Punch Buttons Are Pressed",
+      "reason": "A113-DFDD apunta a SRAM ($0060E4)"
+    },
+    {
+      "crc32": "252C1DA7",
+      "title": "Killer Instinct (USA)",
+      "cheat": "P1 Move Modifier",
+      "reason": "93DD-3F07 apunta a Low RAM (mirror) ($800F05)"
+    },
+    {
+      "crc32": "252C1DA7",
+      "title": "Killer Instinct (USA)",
+      "cheat": "P2 Move Modifier",
+      "reason": "93DD-3407 apunta a Low RAM (mirror) ($800F09)"
+    },
+    {
+      "crc32": "252C1DA7",
+      "title": "Killer Instinct (USA)",
+      "cheat": "Players can pass through each other",
+      "reason": "1D1B-1DA7 apunta a SRAM ($806D93)"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Always Have Invincibility",
+      "reason": "DC7E-0A0F apunta a Hardware registers ($3035F1)"
+    },
+    {
+      "crc32": "D2554270",
+      "title": "Lagoon (USA)",
+      "cheat": "Start On Level 0 (HP= 0/0, MP= 0/0, EXP= 0/0)",
+      "reason": "DD02-040C apunta a Hardware registers ($0249D9)"
+    },
+    {
+      "crc32": "777AAC2F",
+      "title": "Legend of Zelda, The - A Link to the Past (USA)",
+      "cheat": "Event Modifier",
+      "reason": "DDDF-DDDD apunta a Low RAM (mirror) ($000010)"
+    },
+    {
+      "crc32": "5E7397E0",
+      "title": "Mario's Time Machine (USA)",
+      "cheat": "Infinite Tries",
+      "reason": "DFFB-C40F apunta a Low RAM (mirror) ($801699)"
+    },
+    {
+      "crc32": "CEDF3BA7",
+      "title": "Marvelous - Mouhitotsu no Takara-jima (Japan)",
+      "cheat": "Max Firewood",
+      "reason": "DB76-0D70 apunta a Hardware registers ($0D3180)"
+    },
+    {
+      "crc32": "8AF25E7E",
+      "title": "Might and Magic III - Isles of Terra (USA)",
+      "cheat": "255 Armor Class",
+      "reason": "D574-CDE6 apunta a Hardware registers ($8E3223)"
+    },
+    {
+      "crc32": "8AF25E7E",
+      "title": "Might and Magic III - Isles of Terra (USA)",
+      "cheat": "Better Items For Sale",
+      "reason": "E674-CDE6 apunta a Hardware registers ($8E3223)"
+    },
+    {
+      "crc32": "A56EB77A",
+      "title": "Mighty Morphin Power Rangers (USA)",
+      "cheat": "Start level morphed",
+      "reason": "DBF4-0FDA apunta a Low RAM (mirror) ($031124)"
+    },
+    {
+      "crc32": "8071E5DB",
+      "title": "Peace Keepers, The (USA)",
+      "cheat": "Background Music Modifier",
+      "reason": "DFDB-697B apunta a Low RAM (mirror) ($1E0694)"
+    },
+    {
+      "crc32": "9FAB69FC",
+      "title": "Pit-Fighter (USA)",
+      "cheat": "Start With More Energy",
+      "reason": "DD7D-0040 apunta a Hardware registers ($193100)"
+    },
+    {
+      "crc32": "0C552B1F",
+      "title": "Ranma 1-2 - Chougi Ranbu Hen (Japan)",
+      "cheat": "Gosunkugi's Straw Man Throw Does More Damage",
+      "reason": "40D8-DD05 apunta a Low RAM (mirror) ($010CB1)"
+    },
+    {
+      "crc32": "0C552B1F",
+      "title": "Ranma 1-2 - Chougi Ranbu Hen (Japan)",
+      "cheat": "Ryoga's Bandana Throw Kills With 1 Hit",
+      "reason": "1DD8-DD05 apunta a Low RAM (mirror) ($010CB1)"
+    },
+    {
+      "crc32": "7D06F473",
+      "title": "Rock N' Roll Racing (USA)",
+      "cheat": "Cool Looking CPU Car (Until He Blows Up)!",
+      "reason": "CB09-CD67 apunta a Hardware registers ($804E52)"
+    },
+    {
+      "crc32": "7D06F473",
+      "title": "Rock N' Roll Racing (USA)",
+      "cheat": "Corners Can Kill You!",
+      "reason": "BAFE-CD67 apunta a Low RAM (mirror) ($801EF2)"
+    },
+    {
+      "crc32": "7D06F473",
+      "title": "Rock N' Roll Racing (USA)",
+      "cheat": "Messed Up Track And Cool Looking CPU Car!",
+      "reason": "A009-CD67 apunta a Hardware registers ($804E52)"
+    },
+    {
+      "crc32": "7D06F473",
+      "title": "Rock N' Roll Racing (USA)",
+      "cheat": "Why Would You Wanna Race On The Track?",
+      "reason": "0907-CD67 apunta a Hardware registers ($804E32)"
+    },
+    {
+      "crc32": "7D06F473",
+      "title": "Rock N' Roll Racing (USA)",
+      "cheat": "Why Would You Wanna Race On The Track? #2 (Kind Of Different)",
+      "reason": "1B07-CD67 apunta a Hardware registers ($804E32)"
+    },
+    {
+      "crc32": "31F18DDA",
+      "title": "Rockman 7 - Shukumei no Taiketsu! (Japan)",
+      "cheat": "Can Access Any Weapon, Infinite Use",
+      "reason": "C046-3800 apunta a Hardware registers ($A1238D)"
+    },
+    {
+      "crc32": "EE05A1AF",
+      "title": "Rockman 7 - Shukumei no Taiketsu! (Japan) (Beta)",
+      "cheat": "Start Game On Level ??",
+      "reason": "C014-0F01 apunta a SRAM ($016925)"
+    },
+    {
+      "crc32": "82AF5B69",
+      "title": "Romance of the Three Kingdoms IV - Wall of Fire (USA)",
+      "cheat": "Gossip Always Succeeds",
+      "reason": "CA17-32D8 apunta a SRAM ($B26F34)"
+    },
+    {
+      "crc32": "82AF5B69",
+      "title": "Romance of the Three Kingdoms IV - Wall of Fire (USA)",
+      "cheat": "Rebel Always Succeeds",
+      "reason": "CA0E-3ADA apunta a Hardware registers ($B343F0)"
+    },
+    {
+      "crc32": "2FEE01AD",
+      "title": "SD F-1 Grand Prix (Japan)",
+      "cheat": "Disable Commentary",
+      "reason": "DD52-6DDF apunta a SRAM ($0076D0)"
+    },
+    {
+      "crc32": "A5C0045E",
+      "title": "Secret of Evermore (USA)",
+      "cheat": "Treasures and Ingredients Respawn",
+      "reason": "8CDE-1DD0 apunta a Low RAM (mirror) ($8101F0)"
+    },
+    {
+      "crc32": "2AE148D6",
+      "title": "Smurfs, The (Europe) (En,Fr,De,Es,It)",
+      "cheat": "Moon Jump",
+      "reason": "0000-0000 apunta a Hardware registers ($114141)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Basic Spectre Starts With 9 Ammo",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Basic Spectre Starts With 9 Shields",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Basic Spectre Starts With 9 Speed",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Speedy Spectre Starts With 9 Ammo",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Speedy Spectre Starts With 9 Shields",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Speedy Spectre Starts With 9 Speed",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Strong Spectre Starts With 9 Ammo",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "ADE6E0D8",
+      "title": "Spectre (USA)",
+      "cheat": "Strong Spectre Starts With 9 Speed",
+      "reason": "DB10-D7A4 apunta a SRAM ($00684F)"
+    },
+    {
+      "crc32": "AE878CCB",
+      "title": "Spider-Man - X-Men - Arcade's Revenge (USA)",
+      "cheat": "View Ending When starting a New Game",
+      "reason": "DFFB-0DD9 apunta a Low RAM (mirror) ($011590)"
+    },
+    {
+      "crc32": "8DE80428",
+      "title": "Star Trek - The Next Generation - Future's Past (USA)",
+      "cheat": "Start With 10 Lives",
+      "reason": "DD0D-4DDD apunta a Hardware registers ($804000)"
+    },
+    {
+      "crc32": "BC3DCD9D",
+      "title": "Street Fighter II (USA)",
+      "cheat": "Easy Sonic Booms",
+      "reason": "1D11-32E2 apunta a SRAM ($BF6767)"
+    },
+    {
+      "crc32": "BC3DCD9D",
+      "title": "Street Fighter II (USA)",
+      "cheat": "Permastars",
+      "reason": "1911-3BA2 apunta a SRAM ($A36767)"
+    },
+    {
+      "crc32": "BC3DCD9D",
+      "title": "Street Fighter II (USA)",
+      "cheat": "Reverse Jab Fireballs",
+      "reason": "DF97-479E apunta a Hardware registers ($875C3D)"
+    },
+    {
+      "crc32": "9C1F11E4",
+      "title": "Super Bomberman 2 (USA)",
+      "cheat": "Speed Of Gameplay In VS Mode Increases Slightly",
+      "reason": "3B41-AC5E apunta a Hardware registers ($2F2F69)"
+    },
+    {
+      "crc32": "B64FFB12",
+      "title": "Super Castlevania IV (USA)",
+      "cheat": "Event Modifier",
+      "reason": "DDD7-DD6D apunta a Low RAM (mirror) ($000032)"
+    },
+    {
+      "crc32": "B64FFB12",
+      "title": "Super Castlevania IV (USA)",
+      "cheat": "In Stage Event Modifier",
+      "reason": "DDD5-DDDD apunta a Low RAM (mirror) ($000070)"
+    },
+    {
+      "crc32": "6A187C70",
+      "title": "Super Godzilla (USA)",
+      "cheat": "The Destruction Of Tokyo Always Remains At Zero Percent",
+      "reason": "C2F3-AFD4 apunta a Low RAM (mirror) ($001BE4)"
+    },
+    {
+      "crc32": "CD80DB86",
+      "title": "Super Mario Kart (USA)",
+      "cheat": "Super Boost",
+      "reason": "ED4C-DE7E apunta a Hardware registers ($3F2CAC)"
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Character Amount Won't Screw Up",
+      "reason": "D977-DA6D apunta a Hardware registers ($303032)"
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Have All Characters",
+      "reason": "D977-DA6D apunta a Hardware registers ($303032)"
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Invincibility Fix",
+      "reason": "EE7F-0A6D apunta a Hardware registers ($303112)"
+    },
+    {
+      "crc32": "B19ED489",
+      "title": "Super Mario World (USA)",
+      "cheat": "Enable Item Window's \"Goal Point\" (Quit)",
+      "reason": "7E0D-C2D7 apunta a Hardware registers ($B04E04)"
+    },
+    {
+      "crc32": "D63ED5F8",
+      "title": "Super Metroid (Japan, USA) (En,Ja)",
+      "cheat": "Disable SFX",
+      "reason": "DFDB-1104 apunta a Low RAM (mirror) ($900999)"
+    },
+    {
+      "crc32": "D63ED5F8",
+      "title": "Super Metroid (Japan, USA) (En,Ja)",
+      "cheat": "Event Modifier",
+      "reason": "DFDB-11D4 apunta a Low RAM (mirror) ($900998)"
+    },
+    {
+      "crc32": "F16D5CE9",
+      "title": "Super Street Fighter II (USA)",
+      "cheat": "CPU VS On P1 Controller",
+      "reason": "DEFA-4793 apunta a Low RAM (mirror) ($8718CD)"
+    },
+    {
+      "crc32": "EF968ED1",
+      "title": "Tecmo Secret of the Stars (USA)",
+      "cheat": "Characters Win The Battle Instantly",
+      "reason": "EA7D-AAE2 apunta a Hardware registers ($3F3703)"
+    },
+    {
+      "crc32": "EF968ED1",
+      "title": "Tecmo Secret of the Stars (USA)",
+      "cheat": "Enemy Attacks Heal You",
+      "reason": "AED3-D8F7 apunta a Low RAM (mirror) ($240CEC)"
+    },
+    {
+      "crc32": "EF968ED1",
+      "title": "Tecmo Secret of the Stars (USA)",
+      "cheat": "Get A Free Evaluation Of Your Items",
+      "reason": "2542-D706 apunta a Hardware registers ($0220DD)"
+    },
+    {
+      "crc32": "EF968ED1",
+      "title": "Tecmo Secret of the Stars (USA)",
+      "cheat": "Get Lots Of Gold & More",
+      "reason": "2542-A701 apunta a Hardware registers ($012BDD)"
+    },
+    {
+      "crc32": "EF968ED1",
+      "title": "Tecmo Secret of the Stars (USA)",
+      "cheat": "Store Modifier",
+      "reason": "2542-A701 apunta a Hardware registers ($012BDD)"
+    },
+    {
+      "crc32": "130B0933",
+      "title": "Timecop (USA)",
+      "cheat": "Officer Jenny Has Infinite Ammo",
+      "reason": "4456-D4D1 apunta a SRAM ($017888)"
+    },
+    {
+      "crc32": "383858C7",
+      "title": "Uniracers (USA)",
+      "cheat": "Put Anything For ** To Change The Color Of The Background And/Or The Track And/Or Your Uni And/Or The Computer Controlled Unis",
+      "reason": "2542-D706 apunta a Hardware registers ($0220DD)"
+    },
+    {
+      "crc32": "D8FDDD76",
+      "title": "Wizardry V - Heart of the Maelstrom (USA)",
+      "cheat": "Allow Sprite/Music Viewer Cheat without Beating the Game",
+      "reason": "00DD-4BD0 apunta a Low RAM (mirror) ($A10004)"
+    },
+    {
+      "crc32": "4E62D6BF",
+      "title": "Wolverine - Adamantium Rage (USA)",
+      "cheat": "Bosses Tend To Do Less Damage",
+      "reason": "7DF0-AED2 apunta a Low RAM (mirror) ($33174C)"
+    },
+    {
+      "crc32": "4E62D6BF",
+      "title": "Wolverine - Adamantium Rage (USA)",
+      "cheat": "Wolverine Can Jump A Little Higher",
+      "reason": "A077-36DE apunta a Hardware registers ($A33F30)"
+    },
+    {
+      "crc32": "4E62D6BF",
+      "title": "Wolverine - Adamantium Rage (USA)",
+      "cheat": "Wolverine Walks A Little Slower Than Normal",
+      "reason": "A317-36DE apunta a SRAM ($A36F30)"
+    }
+  ],
+  "mapper_rejected_cheats": [
+    {
+      "crc32": "67CDACC5",
+      "title": "Breath of Fire II (USA)",
+      "cheat": "Main character is different",
+      "codes": [
+        "46DA-87D4",
+        "45DA-87D4",
+        "FDDA-87D4",
+        "F4DA-87D4",
+        "F0DA-87D4"
+      ],
+      "reason": "45DA-87D4: conflicting values target file offset 0x000ACC"
+    },
+    {
+      "crc32": "832C0CB6",
+      "title": "Bugs Bunny - Rabbit Rampage (USA)",
+      "cheat": "Unnamed Cheat #2",
+      "codes": [
+        "1C15-9207"
+      ],
+      "reason": "1C15-9207: $706D75 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "A567957C",
+      "title": "Death and Return of Superman, The (USA)",
+      "cheat": "Infinite Energy #2",
+      "codes": [
+        "99D2-BAB5"
+      ],
+      "reason": "99D2-BAB5: $750ED2 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "A567957C",
+      "title": "Death and Return of Superman, The (USA)",
+      "cheat": "Infinite Lives #2",
+      "codes": [
+        "DBDF-FAB9"
+      ],
+      "reason": "DBDF-FAB9: $750412 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "A567957C",
+      "title": "Death and Return of Superman, The (USA)",
+      "cheat": "Infinite Special",
+      "codes": [
+        "D7DD-FEB9"
+      ],
+      "reason": "D7DD-FEB9: $75040E points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "A567957C",
+      "title": "Death and Return of Superman, The (USA)",
+      "cheat": "Invincibility #2",
+      "codes": [
+        "DED3-2220"
+      ],
+      "reason": "DED3-2220: $7503E7 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "C946DCA0",
+      "title": "Donkey Kong Country (USA)",
+      "cheat": "10 Bananas Needed For An Extra Life",
+      "codes": [
+        "DBC1-3D6D",
+        "DCC1-34AD",
+        "DBC9-340D",
+        "DCC1-3D6D"
+      ],
+      "reason": "DCC1-3D6D: conflicting values target file offset 0x00A362"
+    },
+    {
+      "crc32": "C946DCA0",
+      "title": "Donkey Kong Country (USA)",
+      "cheat": "25 Bananas Needed For An Extra Life",
+      "codes": [
+        "F6C1-3D6D",
+        "FBC1-34AD",
+        "F6C9-340D",
+        "FBC1-3D6D"
+      ],
+      "reason": "FBC1-3D6D: conflicting values target file offset 0x00A362"
+    },
+    {
+      "crc32": "C946DCA0",
+      "title": "Donkey Kong Country (USA)",
+      "cheat": "50 Bananas Needed For An Extra Life",
+      "codes": [
+        "7FC1-3D6D",
+        "74C1-34AD",
+        "7FC9-340D",
+        "74C1-3D6D"
+      ],
+      "reason": "74C1-3D6D: conflicting values target file offset 0x00A362"
+    },
+    {
+      "crc32": "C946DCA0",
+      "title": "Donkey Kong Country (USA)",
+      "cheat": "75 Bananas Needed For An Extra Life",
+      "codes": [
+        "0CC1-3D6D",
+        "08C1-34AD",
+        "0CC9-340D",
+        "08C1-3D6D"
+      ],
+      "reason": "08C1-3D6D: conflicting values target file offset 0x00A362"
+    },
+    {
+      "crc32": "0DFD9CEB",
+      "title": "Dungeon Master (USA)",
+      "cheat": "1st Character Has 250 Maximum Stamina",
+      "codes": [
+        "A0DC-F36F",
+        "DBDC-F3AF"
+      ],
+      "reason": "A0DC-F36F: $7004AA points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "0DFD9CEB",
+      "title": "Dungeon Master (USA)",
+      "cheat": "2nd Character Has 250 Maximum Stamina",
+      "codes": [
+        "A0DA-230F",
+        "DBDA-236F"
+      ],
+      "reason": "A0DA-230F: $7007C9 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "0DFD9CEB",
+      "title": "Dungeon Master (USA)",
+      "cheat": "3rd Character Has 250 Maximum Stamina",
+      "codes": [
+        "A0D3-B3D4",
+        "DBD3-B304"
+      ],
+      "reason": "A0D3-B3D4: $700AE8 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "0DFD9CEB",
+      "title": "Dungeon Master (USA)",
+      "cheat": "4th Character Has 250 Maximum Stamina",
+      "codes": [
+        "A0DD-B2A7",
+        "DBDD-B3D7"
+      ],
+      "reason": "A0DD-B2A7: $700E07 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "3447609E",
+      "title": "F1-ROC II - Race of Champions (USA)",
+      "cheat": "Always Finish First In Qualifying Rounds",
+      "codes": [
+        "C232-4F0F"
+      ],
+      "reason": "C232-4F0F: The cartridge uses a coprocessor that is not safely supported (chipset 0xF6, map mode 0x30)."
+    },
+    {
+      "crc32": "7E5929E8",
+      "title": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan)",
+      "cheat": "Infinite Sudden Impact Scrolls",
+      "codes": [
+        "0DDB-B26D"
+      ],
+      "reason": "0DDB-B26D: $700296 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "BB9D8E56",
+      "title": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)",
+      "cheat": "Percentage Modifier",
+      "codes": [
+        "DDD2-FA64"
+      ],
+      "reason": "DDD2-FA64: $7008D2 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Always Have 2x Mouth Shot",
+      "codes": [
+        "D4F1-FFAF"
+      ],
+      "reason": "D4F1-FFAF: address $401467 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Always Have Full Mouth",
+      "codes": [
+        "D4F6-F7AF"
+      ],
+      "reason": "D4F6-F7AF: address $40148F does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Have All Powers",
+      "codes": [
+        "53FF-2704",
+        "EEFF-2764",
+        "FEFF-27A4",
+        "F7F4-2DD4"
+      ],
+      "reason": "53FF-2704: address $401B1D does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Have No Powers",
+      "codes": [
+        "DDFF-2704",
+        "DDFF-2764",
+        "DDFF-27A4",
+        "DDF4-2DD4"
+      ],
+      "reason": "DDFF-2704: address $401B1D does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Infinite 2 Microphones",
+      "codes": [
+        "D4FD-94AF"
+      ],
+      "reason": "D4FD-94AF: address $40150B does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Infinite 99 Lives",
+      "codes": [
+        "17F5-246D"
+      ],
+      "reason": "17F5-246D: address $40137A does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Infinite Energy for Friend",
+      "codes": [
+        "7DF5-276D"
+      ],
+      "reason": "7DF5-276D: address $40137E does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Infinite Energy for Kirby",
+      "codes": [
+        "01F5-27DD"
+      ],
+      "reason": "01F5-27DD: address $40137C does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Kirby Always Has 999 Food",
+      "codes": [
+        "35F4-B404",
+        "D7F4-B464"
+      ],
+      "reason": "35F4-B404: address $401A29 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Kirby's Face Modifiers",
+      "codes": [
+        "443B-FA0A"
+      ],
+      "reason": "443B-FA0A: address $73E091 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Most Mouth-fulls Give X Ability when Swallowed",
+      "codes": [
+        "DDF1-F7AF"
+      ],
+      "reason": "DDF1-F7AF: address $40146F does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Never Use Mix",
+      "codes": [
+        "DFF5-FDAF"
+      ],
+      "reason": "DFF5-FDAF: address $401473 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Score Always 999999",
+      "codes": [
+        "7EF5-2F6D",
+        "04F5-2FAD",
+        "DEF5-24DD"
+      ],
+      "reason": "7EF5-2F6D: address $401376 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Speed Select",
+      "codes": [
+        "DFFA-F4DF"
+      ],
+      "reason": "DFFA-F4DF: address $4014C8 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "89D0F7DC",
+      "title": "Kirby Super Star (USA)",
+      "cheat": "Swallow Ability Modifier",
+      "codes": [
+        "DDF1-F7AF"
+      ],
+      "reason": "DDF1-F7AF: address $40146F does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "2x Power Mouth Shot",
+      "codes": [
+        "D49C-F70F"
+      ],
+      "reason": "D49C-F70F: address $4054AD does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Always Have Full Mouth",
+      "codes": [
+        "D493-F70F"
+      ],
+      "reason": "D493-F70F: address $4054ED does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Always Have Invincibility (Kirby)",
+      "codes": [
+        "DF98-FD6F"
+      ],
+      "reason": "DF98-FD6F: address $4054B2 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Always Have Power",
+      "codes": [
+        "DD9C-F40F"
+      ],
+      "reason": "DD9C-F40F: address $4054A9 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Debug Room - Use In The First World (Map Modifier)",
+      "codes": [
+        "4692-2DAD"
+      ],
+      "reason": "4692-2DAD: address $4053D3 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 1st Star L.1",
+      "codes": [
+        "DF9C-2FAD"
+      ],
+      "reason": "DF9C-2FAD: address $4053A7 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 1st Star L.2",
+      "codes": [
+        "DF9C-276D"
+      ],
+      "reason": "DF9C-276D: address $4053AE does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 1st Star L.2 #2",
+      "codes": [
+        "DF9C-270D"
+      ],
+      "reason": "DF9C-270D: address $4053AD does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 1st Star L.3",
+      "codes": [
+        "DF98-2F0D"
+      ],
+      "reason": "DF98-2F0D: address $4053B5 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 1st Star L.4",
+      "codes": [
+        "DF98-27DD"
+      ],
+      "reason": "DF98-27DD: address $4053BC does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 1st Star L.5",
+      "codes": [
+        "DF9A-2DAD"
+      ],
+      "reason": "DF9A-2DAD: address $4053C3 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 2nd Star L.1",
+      "codes": [
+        "DF9C-24DD"
+      ],
+      "reason": "DF9C-24DD: address $4053A8 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 2nd Star L.2",
+      "codes": [
+        "DF9C-27AD"
+      ],
+      "reason": "DF9C-27AD: address $4053AF does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 2nd Star L.3",
+      "codes": [
+        "DF98-2F6D"
+      ],
+      "reason": "DF98-2F6D: address $4053B6 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 2nd Star L.4",
+      "codes": [
+        "DF98-270D"
+      ],
+      "reason": "DF98-270D: address $4053BD does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 2nd Star L.5",
+      "codes": [
+        "DF9A-2FDD"
+      ],
+      "reason": "DF9A-2FDD: address $4053C4 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 3rd Star L.1",
+      "codes": [
+        "DF9C-240D"
+      ],
+      "reason": "DF9C-240D: address $4053A9 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 3rd Star L.2",
+      "codes": [
+        "DF98-2DDD"
+      ],
+      "reason": "DF98-2DDD: address $4053B0 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 3rd Star L.3",
+      "codes": [
+        "DF98-2FAD"
+      ],
+      "reason": "DF98-2FAD: address $4053B7 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 3rd Star L.4",
+      "codes": [
+        "DF98-276D"
+      ],
+      "reason": "DF98-276D: address $4053BE does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 3rd Star L.4 #2",
+      "codes": [
+        "DF98-24AD"
+      ],
+      "reason": "DF98-24AD: address $4053BB does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 3rd Star L.5",
+      "codes": [
+        "DF9A-2F0D"
+      ],
+      "reason": "DF9A-2F0D: address $4053C5 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 4th Star L.1",
+      "codes": [
+        "DF9C-246D"
+      ],
+      "reason": "DF9C-246D: address $4053AA does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 4th Star L.2",
+      "codes": [
+        "DF98-2D0D"
+      ],
+      "reason": "DF98-2D0D: address $4053B1 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 4th Star L.3",
+      "codes": [
+        "DF98-24DD"
+      ],
+      "reason": "DF98-24DD: address $4053B8 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 4th Star L.4",
+      "codes": [
+        "DF98-27AD"
+      ],
+      "reason": "DF98-27AD: address $4053BF does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 4th Star L.5",
+      "codes": [
+        "DF9A-2F6D"
+      ],
+      "reason": "DF9A-2F6D: address $4053C6 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 4th Star L.5 #2",
+      "codes": [
+        "DF9A-2D6D"
+      ],
+      "reason": "DF9A-2D6D: address $4053C2 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 5th Star L.1",
+      "codes": [
+        "DF9C-24AD"
+      ],
+      "reason": "DF9C-24AD: address $4053AB does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 5th Star L.2",
+      "codes": [
+        "DF98-2D6D"
+      ],
+      "reason": "DF98-2D6D: address $4053B2 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 5th Star L.3",
+      "codes": [
+        "DF98-240D"
+      ],
+      "reason": "DF98-240D: address $4053B9 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 5th Star L.4",
+      "codes": [
+        "DF9A-2DDD"
+      ],
+      "reason": "DF9A-2DDD: address $4053C0 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 5th Star L.5",
+      "codes": [
+        "DF9A-2FAD"
+      ],
+      "reason": "DF9A-2FAD: address $4053C7 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 6th Star L.1",
+      "codes": [
+        "DF9C-27DD"
+      ],
+      "reason": "DF9C-27DD: address $4053AC does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 6th Star L.2",
+      "codes": [
+        "DF98-2DAD"
+      ],
+      "reason": "DF98-2DAD: address $4053B3 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 6th Star L.3",
+      "codes": [
+        "DF98-246D"
+      ],
+      "reason": "DF98-246D: address $4053BA does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 6th Star L.4",
+      "codes": [
+        "DF9A-2D0D"
+      ],
+      "reason": "DF9A-2D0D: address $4053C1 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Have 6th Star L.5",
+      "codes": [
+        "DF9A-24DD"
+      ],
+      "reason": "DF9A-24DD: address $4053C8 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Infinite Life (Kirby)",
+      "codes": [
+        "DC72-9D04"
+      ],
+      "reason": "DC72-9D04: address $4039D1 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Infinite Life (Partner)",
+      "codes": [
+        "D672-9DA4"
+      ],
+      "reason": "D672-9DA4: address $4039D3 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Infinite Lives",
+      "codes": [
+        "DC7A-97A4"
+      ],
+      "reason": "DC7A-97A4: address $4039CF does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "EC8A48F6",
+      "title": "Kirby's Dream Land 3 (USA)",
+      "cheat": "Invincibility (Alt)",
+      "codes": [
+        "DF9F-970F",
+        "D49C-FDAF"
+      ],
+      "reason": "DF9F-970F: address $40551D does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "5E1AA1A6",
+      "title": "Lufia & the Fortress of Doom (USA)",
+      "cheat": "Enemies Give 30,000 Exp",
+      "codes": [
+        "EA3E-7EE5"
+      ],
+      "reason": "EA3E-7EE5: $FDECFF points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "5E1AA1A6",
+      "title": "Lufia & the Fortress of Doom (USA)",
+      "cheat": "Gain Level After Each Fight",
+      "codes": [
+        "AAE1-7ED5"
+      ],
+      "reason": "AAE1-7ED5: $F1FC6C points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "5F863463",
+      "title": "Magical Taruruuto-kun - Magic Adventure (Japan)",
+      "cheat": "Always Have Level Complete Item",
+      "codes": [
+        "DFDD-F3DD"
+      ],
+      "reason": "DFDD-F3DD: $700008 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "7D06F473",
+      "title": "Rock N' Roll Racing (USA)",
+      "cheat": "Start With More Money",
+      "codes": [
+        "D9CF-CDD5",
+        "BBCF-CDD5",
+        "D9CF-CD05"
+      ],
+      "reason": "BBCF-CDD5: conflicting values target file offset 0x00AE10"
+    },
+    {
+      "crc32": "D0176B24",
+      "title": "Secret of Mana (USA)",
+      "cheat": "Infinite Energy, Power Ups Quickly, One Hit Wonder",
+      "codes": [
+        "8AA8-74DD",
+        "82A8-77AD",
+        "6DAA-776D",
+        "82AA-776D"
+      ],
+      "reason": "82AA-776D: conflicting values target file offset 0x00C0CE"
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "'Set Techs' or 'Set Spells' To Get All Of Them",
+      "codes": [
+        "CBC4-7438",
+        "DFC4-7748",
+        "6DC4-7718",
+        "FAC4-77C8"
+      ],
+      "reason": "CBC4-7438: $CAAC2B uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Accessories Won't Break",
+      "codes": [
+        "6D9A-8D64",
+        "6D9A-87A4"
+      ],
+      "reason": "6D9A-8D64: $C05AC2 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Accessories Won't Break, and Infinite Accessory Use During Battle",
+      "codes": [
+        "6D5A-7739"
+      ],
+      "reason": "6D5A-7739: $C974CF uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "All Food Counts As Favorite Food",
+      "codes": [
+        "6D28-872F"
+      ],
+      "reason": "6D28-872F: $C4D6BF uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Buy Skill Information For Multiple Sets - Combat 3 Set",
+      "codes": [
+        "104F-7D6C",
+        "CB42-EDDB",
+        "EE42-ED0B",
+        "DF42-ED6B",
+        "3C42-EDAB"
+      ],
+      "reason": "104F-7D6C: $C22812 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Buy Skill Information For Multiple Sets - Knowledge Set (Gives All But Combat 3)",
+      "codes": [
+        "104F-7D6C",
+        "CB42-EDDB",
+        "3D42-ED0B",
+        "EE42-ED6B",
+        "3C42-EDAB"
+      ],
+      "reason": "104F-7D6C: $C22812 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Buy Skill Information For Multiple Sets [Combat 3 Set]",
+      "codes": [
+        "104F-7D6C",
+        "CB42-EDDB",
+        "EE42-ED0B",
+        "DF42-ED6B",
+        "3C42-EDAB"
+      ],
+      "reason": "104F-7D6C: $C22812 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Buy Skill Information For Multiple Sets [Knowledge Set; Gives all but Combat 3]",
+      "codes": [
+        "104F-7D6C",
+        "CB42-EDDB",
+        "3D42-ED0B",
+        "EE42-ED6B",
+        "3C42-EDAB"
+      ],
+      "reason": "104F-7D6C: $C22812 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Can Buy Secret Skills for 1 SP",
+      "codes": [
+        "DFC6-57CC",
+        "CBCC-571C",
+        "DDCC-57CC",
+        "CBC9-87CC",
+        "DDAA-7FC8"
+      ],
+      "reason": "DFC6-57CC: $CAA98E uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "EXP Multiplier x8",
+      "codes": [
+        "DD12-E4D5",
+        "DC12-E405",
+        "DC12-E465",
+        "DC12-E4A5"
+      ],
+      "reason": "DD12-E4D5: $C16FD8 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Fight 1 Battle For Maximum Level/EXP",
+      "codes": [
+        "DD1E-E4D5"
+      ],
+      "reason": "DD1E-E4D5: $C16FF8 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Get 15 of All Items - Set 1",
+      "codes": [
+        "CBEA-57BC",
+        "6CE2-5FFC",
+        "3CE2-5F9C",
+        "DEEA-572C"
+      ],
+      "reason": "CBEA-57BC: $C6F9CE uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Get 15 of All Items - Set 2",
+      "codes": [
+        "CBEA-57BC",
+        "6CE2-5FFC",
+        "3CE2-5F9C",
+        "DFEC-549C",
+        "6EEA-572C"
+      ],
+      "reason": "CBEA-57BC: $C6F9CE uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Get 15 of All Items [Set 1]",
+      "codes": [
+        "CBEA-57BC",
+        "6CE2-5FFC",
+        "3CE2-5F9C",
+        "DEEA-572C"
+      ],
+      "reason": "CBEA-57BC: $C6F9CE uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Get 15 Of All Items [Set 2]",
+      "codes": [
+        "CBEA-57BC",
+        "6CE2-5FFC",
+        "3CE2-5F9C",
+        "DFEC-549C",
+        "6EEA-572C"
+      ],
+      "reason": "CBEA-57BC: $C6F9CE uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Infinite Items When Using Item Creation Skills",
+      "codes": [
+        "8E23-87C6"
+      ],
+      "reason": "8E23-87C6: $CAD2EE uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Invincible During Battle",
+      "codes": [
+        "DDD8-5DA3"
+      ],
+      "reason": "DDD8-5DA3: $C309B3 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Item Creation Never Fails (See Note)",
+      "codes": [
+        "DDD7-5D43",
+        "6D34-8F9D",
+        "6D38-EDBD",
+        "6D34-842F",
+        "6D30-77F4",
+        "6D3C-5724",
+        "6D3B-84B4",
+        "6D4C-5434"
+      ],
+      "reason": "DDD7-5D43: $CB0930 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Maximum Fol After 1 Battle",
+      "codes": [
+        "DD1F-E465"
+      ],
+      "reason": "DD1F-E465: $C16F1A uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "No Random Battles",
+      "codes": [
+        "6D5D-7F66"
+      ],
+      "reason": "6D5D-7F66: $C27006 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "One Hit Kills",
+      "codes": [
+        "6D1A-5701"
+      ],
+      "reason": "6D1A-5701: $C169CD uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Play Red Music Entries To Enable 8 At A Time",
+      "codes": [
+        "CB61-84AF",
+        "EE61-87DF",
+        "DDAA-EF04"
+      ],
+      "reason": "CB61-84AF: $C0866B uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Play Red Sound Effect Entries To Enable 8 At A Time",
+      "codes": [
+        "CBBC-74DD",
+        "EEBC-740D",
+        "DDAB-54D7"
+      ],
+      "reason": "CBBC-74DD: $C090A8 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Save Anywhere",
+      "codes": [
+        "DDD6-74CA"
+      ],
+      "reason": "DDD6-74CA: $CB008A uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Skill Points Not Needed",
+      "codes": [
+        "DDC3-5F4C"
+      ],
+      "reason": "DDC3-5F4C: $CAA9E4 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View Someone's Status To Give Them All Talents",
+      "codes": [
+        "EEA1-771C",
+        "21A1-773C",
+        "25A5-7D3C"
+      ],
+      "reason": "EEA1-771C: $CAC86D uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View Someone's Status To Make Status Screen Show Their Favorite Food",
+      "codes": [
+        "CB5C-5418",
+        "DF5C-54C8",
+        "BE5C-5748",
+        "325C-5718"
+      ],
+      "reason": "CB5C-5418: $CA7DA9 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View Status Screen For Maximum Evade",
+      "codes": [
+        "D046-573D",
+        "154B-5D1D"
+      ],
+      "reason": "D046-573D: $C8218F uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View Status Screen For Maximum Guts",
+      "codes": [
+        "CB48-7FCD",
+        "EE48-7F3D",
+        "3C48-744D",
+        "5748-74CD"
+      ],
+      "reason": "CB48-7FCD: $C820B6 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View Status Screen For Maximum Intelligence",
+      "codes": [
+        "D04C-54CD",
+        "5B4C-574D"
+      ],
+      "reason": "D04C-54CD: $C821AA uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View Status Screen For Maximum Strength, Constitution, Agility, and Stamina",
+      "codes": [
+        "DD48-54CF",
+        "9843-774D",
+        "1F47-5F3D",
+        "1243-5DCD",
+        "2C4A-5F3D"
+      ],
+      "reason": "DD48-54CF: $C825BA uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "View the 'Perform' Music Menu To Get A Complete Music List",
+      "codes": [
+        "C4BB-E716",
+        "EEBB-E7C6",
+        "EEBB-E736",
+        "63BD-7D4B"
+      ],
+      "reason": "C4BB-E716: $CA939D uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "3DBDFDBF",
+      "title": "Star Ocean (Japan)",
+      "cheat": "Walk Through Walls",
+      "codes": [
+        "1D4D-E7B8"
+      ],
+      "reason": "1D4D-E7B8: $C62F0E uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "9C59DDFF",
+      "title": "Street Fighter Alpha 2 (USA)",
+      "cheat": "Easier Special Moves[See Notes]",
+      "codes": [
+        "DDD7-849C",
+        "6DDE-54B8",
+        "4EDC-ED9C",
+        "DAD4-8D28",
+        "DED4-8FF8"
+      ],
+      "reason": "DDD7-849C: $C60A39 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "9C59DDFF",
+      "title": "Street Fighter Alpha 2 (USA)",
+      "cheat": "Easy Shun Goku Satsu",
+      "codes": [
+        "F1FF-87FB"
+      ],
+      "reason": "F1FF-87FB: $C6161C uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "9C59DDFF",
+      "title": "Street Fighter Alpha 2 (USA)",
+      "cheat": "Hit Anywhere P1",
+      "codes": [
+        "3DC7-8D0D",
+        "6DC7-8D6D",
+        "DBC7-8DAD",
+        "BDC7-8FDD"
+      ],
+      "reason": "3DC7-8D0D: $C0A231 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "9C59DDFF",
+      "title": "Street Fighter Alpha 2 (USA)",
+      "cheat": "Invincibility",
+      "codes": [
+        "3CC6-5DDD",
+        "3DC6-5D0D",
+        "6DC6-5D6D",
+        "DBC6-5DAD",
+        "3D80-7F6D",
+        "DD80-7FAD",
+        "D580-74DD"
+      ],
+      "reason": "3CC6-5DDD: $C0A180 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "9C59DDFF",
+      "title": "Street Fighter Alpha 2 (USA)",
+      "cheat": "No Charging",
+      "codes": [
+        "DDD8-8D9C"
+      ],
+      "reason": "DDD8-8D9C: $C60AB1 uses a dynamic S-DD1 window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "2E35EDBB",
+      "title": "Super Game Boy (Japan, USA) (En)",
+      "cheat": "Enable Game To Start",
+      "codes": [
+        "DD80-6F67",
+        "DF8A-DFD4",
+        "DD8F-0FAD",
+        "F68C-D70D",
+        "CE8C-D76D"
+      ],
+      "reason": "DD80-6F67: The cartridge uses a coprocessor that is not safely supported (chipset 0xE3, map mode 0x20)."
+    },
+    {
+      "crc32": "2E35EDBB",
+      "title": "Super Game Boy (Japan, USA) (En)",
+      "cheat": "Enable Game To Start #2",
+      "codes": [
+        "DD80-6DA7",
+        "DF8A-DD04",
+        "DD8F-0FDD",
+        "F68C-D46D",
+        "CE8C-D4AD"
+      ],
+      "reason": "DD80-6DA7: The cartridge uses a coprocessor that is not safely supported (chipset 0xE3, map mode 0x20)."
+    },
+    {
+      "crc32": "2E35EDBB",
+      "title": "Super Game Boy (Japan, USA) (En)",
+      "cheat": "Enable unfinished unused SNES OBJ_TRN mode",
+      "codes": [
+        "D560-070D"
+      ],
+      "reason": "D560-070D: The cartridge uses a coprocessor that is not safely supported (chipset 0xE3, map mode 0x20)."
+    },
+    {
+      "crc32": "2E35EDBB",
+      "title": "Super Game Boy (Japan, USA) (En)",
+      "cheat": "Load region incompatibility message",
+      "codes": [
+        "D162-04DD"
+      ],
+      "reason": "D162-04DD: The cartridge uses a coprocessor that is not safely supported (chipset 0xE3, map mode 0x20)."
+    },
+    {
+      "crc32": "F84305B1",
+      "title": "Super Mario All-Stars + Super Mario World (USA)",
+      "cheat": "Enable Universal Debug Mode",
+      "codes": [
+        "DFDD-F2AD"
+      ],
+      "reason": "DFDD-F2AD: $700007 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "CD80DB86",
+      "title": "Super Mario Kart (USA)",
+      "cheat": "Hopping Code",
+      "codes": [
+        "FDEB-67A7",
+        "2CAE-CDA4",
+        "4BEB-CDA4",
+        "3DEB-CDA4"
+      ],
+      "reason": "3DEB-CDA4: conflicting values target file offset 0x00FA93"
+    },
+    {
+      "crc32": "CD80DB86",
+      "title": "Super Mario Kart (USA)",
+      "cheat": "Multi-Cam Mario Code",
+      "codes": [
+        "1A3E-CDA4",
+        "5E38-4DD4",
+        "C4EB-CDA4",
+        "34EB-CDA4",
+        "E9EB-CDA4"
+      ],
+      "reason": "34EB-CDA4: conflicting values target file offset 0x00FA93"
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "'Geno Whirl' Always Kills",
+      "codes": [
+        "62A5-EF68",
+        "DDAB-E468"
+      ],
+      "reason": "62A5-EF68: $C2CF76 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "1 Hit Kills Friends and Enemies",
+      "codes": [
+        "DDA5-5F0B"
+      ],
+      "reason": "DDA5-5F0B: $C2C575 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Character 1's(from the right) Turn In Battle(If Speed Is Max)",
+      "codes": [
+        "C4F9-84D8",
+        "E3F9-8408",
+        "EEF9-8468"
+      ],
+      "reason": "C4F9-84D8: $C21E58 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Character 2's(from the right) Turn In Battle(If Speed Is Max)",
+      "codes": [
+        "C4F9-84D8",
+        "DDF9-8408",
+        "DDF9-8468"
+      ],
+      "reason": "C4F9-84D8: $C21E58 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Character 3's(from the right) Turn In Battle(If Speed Is Max)",
+      "codes": [
+        "C4F9-84D8",
+        "DDF9-8468"
+      ],
+      "reason": "C4F9-84D8: $C21E58 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Get Flower From Enemy",
+      "codes": [
+        "6DAE-8DAB"
+      ],
+      "reason": "6DAE-8DAB: $C2C6F3 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Get Selected Flower Type",
+      "codes": [
+        "DDAF-EFAB",
+        "CBAF-EF6B"
+      ],
+      "reason": "DDAF-EFAB: $C2C717 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Hit Twice",
+      "codes": [
+        "FCA3-7F6C"
+      ],
+      "reason": "FCA3-7F6C: $C2C8E6 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Always Speed to Finish Line with 1 Cookie",
+      "codes": [
+        "F796-EBA5"
+      ],
+      "reason": "F796-EBA5: $E15F87 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Automatic Super Jumps",
+      "codes": [
+        "FCA3-E76C"
+      ],
+      "reason": "FCA3-E76C: $C2CBEE uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Automatic Ultra Jumps",
+      "codes": [
+        "FCA9-7468"
+      ],
+      "reason": "FCA9-7468: $C2CC5A uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Battles End Automatically and Quickly",
+      "codes": [
+        "6D67-8D68"
+      ],
+      "reason": "6D67-8D68: $C28E32 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Cheap Stores",
+      "codes": [
+        "CE72-7FAE",
+        "5572-74DE"
+      ],
+      "reason": "CE72-7FAE: $C33CD7 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Cookie Wagers Are 29",
+      "codes": [
+        "F2C5-59EC"
+      ],
+      "reason": "F2C5-59EC: $DEA977 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Enable Battle Debug 2",
+      "codes": [
+        "D96E-8468"
+      ],
+      "reason": "D96E-8468: $C28EFA uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Game select music modifier",
+      "codes": [
+        "DD04-8702"
+      ],
+      "reason": "DD04-8702: $C3462D uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Go Into Culex's Door(which may be invisible) To Fight Again",
+      "codes": [
+        "DD9D-7D30",
+        "6F59-755A",
+        "D751-707A"
+      ],
+      "reason": "DD9D-7D30: $C95003 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Grate Guy Always Looks To The Left In The Look The Other Way Mini Game",
+      "codes": [
+        "6D97-5FDF"
+      ],
+      "reason": "6D97-5FDF: $C05534 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Height In Area Modifier",
+      "codes": [
+        "DD4D-FF0D"
+      ],
+      "reason": "DD4D-FF0D: address $402005 does not map to a static ROM offset for LoROM · SA-1"
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Inch Through Walls Horizontally",
+      "codes": [
+        "E359-EDC1"
+      ],
+      "reason": "E359-EDC1: $C97B52 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Inch Through Walls Vertically",
+      "codes": [
+        "E251-E431"
+      ],
+      "reason": "E251-E431: $C97B6B uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Infinite HP",
+      "codes": [
+        "B299-54A5"
+      ],
+      "reason": "B299-54A5: $C15D5B uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Infinite Items In Battle",
+      "codes": [
+        "DD4E-7D68"
+      ],
+      "reason": "DD4E-7D68: $C22CF2 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Infinite Super/Ultra Jumps",
+      "codes": [
+        "DD4E-7D68"
+      ],
+      "reason": "DD4E-7D68: $C22CF2 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Infinite Tries In Action Sequences / Lit Candles Don't Count In Marrymore / Coin Boxes Don't Run Out Until You Leave The Screen",
+      "codes": [
+        "A98E-7707"
+      ],
+      "reason": "A98E-7707: $C0BCFD uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Jump in Midair",
+      "codes": [
+        "DDF5-E76F"
+      ],
+      "reason": "DDF5-E76F: $C0177E uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Magikoopa's Magic Treasure Chest Gives 10 Coins Each Hit",
+      "codes": [
+        "7ED7-56D4"
+      ],
+      "reason": "7ED7-56D4: $E00930 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Magikoopa's Magic Treasure Chest Gives Flowers",
+      "codes": [
+        "5DD7-56D4",
+        "D6D7-5604"
+      ],
+      "reason": "5DD7-56D4: $E00930 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Magikoopa's Magic Treasure Chest Gives Frog Coins",
+      "codes": [
+        "53D7-56D4",
+        "D6D7-5604"
+      ],
+      "reason": "53D7-56D4: $E00930 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario Jumps Ultra High",
+      "codes": [
+        "EEFE-7FAF"
+      ],
+      "reason": "EEFE-7FAF: $C014F7 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 25 Flower Points.",
+      "codes": [
+        "FBD2-7EC6"
+      ],
+      "reason": "FBD2-7EC6: $FA00DE uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 256 coins.",
+      "codes": [
+        "DFD2-7E46"
+      ],
+      "reason": "DFD2-7E46: $FA00DC uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 256 frog coins.",
+      "codes": [
+        "DFD3-7A46"
+      ],
+      "reason": "DFD3-7A46: $FA00E0 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 50 Flower Points.",
+      "codes": [
+        "74D2-7EC6"
+      ],
+      "reason": "74D2-7EC6: $FA00DE uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 768 coins.",
+      "codes": [
+        "D7D2-7E46"
+      ],
+      "reason": "D7D2-7E46: $FA00DC uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 768 frog coins.",
+      "codes": [
+        "D7D3-7A46"
+      ],
+      "reason": "D7D3-7A46: $FA00E0 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario starts a new game with 99 Flower Points.",
+      "codes": [
+        "17D2-7EC6"
+      ],
+      "reason": "17D2-7EC6: $FA00DE uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Mario Walks and Runs Much Faster",
+      "codes": [
+        "0D84-7764"
+      ],
+      "reason": "0D84-7764: $C0B82E uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Money code.",
+      "codes": [
+        "D50A-5A16"
+      ],
+      "reason": "D50A-5A16: $FA41C1 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Moon Jump",
+      "codes": [
+        "DDF5-E76F",
+        "FFF3-7F0F"
+      ],
+      "reason": "DDF5-E76F: $C0177E uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Move Left Freely (Through Walls)",
+      "codes": [
+        "3C59-E731"
+      ],
+      "reason": "3C59-E731: $C97B5F uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Move Up Freely (Through Walls)",
+      "codes": [
+        "3C55-E7C1"
+      ],
+      "reason": "3C55-E7C1: $C97B7E uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Never Advance Characters In Battle",
+      "codes": [
+        "C3F9-8708"
+      ],
+      "reason": "C3F9-8708: $C21E5D uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Normal battle music modifier",
+      "codes": [
+        "DDB9-ED08"
+      ],
+      "reason": "DDB9-ED08: $C29F51 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "One Hit Kill Alternate",
+      "codes": [
+        "3DA1-5FDB",
+        "6FA1-5F0B",
+        "E8A1-5F6B",
+        "BDA1-5FAB",
+        "40A5-5FDB"
+      ],
+      "reason": "3DA1-5FDB: $C2C564 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Only Need To Complete One Of The 6 Doors In Bowser's Castle",
+      "codes": [
+        "6DAB-54DD"
+      ],
+      "reason": "6DAB-54DD: $C0C198 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Play Culex Victory Music (Final Fantasy) Instead of Standard Victory Music",
+      "codes": [
+        "7A0B-77D8"
+      ],
+      "reason": "7A0B-77D8: $C24C9C uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Press Left To Go Right",
+      "codes": [
+        "FD51-ED31",
+        "DD51-EF41"
+      ],
+      "reason": "FD51-ED31: $C97B63 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Press Left to Go Right (Through Walls)",
+      "codes": [
+        "FD51-ED31",
+        "DD51-EF41"
+      ],
+      "reason": "FD51-ED31: $C97B63 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Press Up to Go Down (Through Walls)",
+      "codes": [
+        "FD55-E741",
+        "DD55-E711"
+      ],
+      "reason": "FD55-E741: $C97B7C uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Regular Attack Hits All Enemies : Needs a one hit kills code",
+      "codes": [
+        "7D77-ED6B",
+        "FC74-EFDB",
+        "BB70-EF0B",
+        "7D70-EF6B"
+      ],
+      "reason": "7D77-ED6B: $C23732 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Show Invisible 1-hit Treasure Boxes",
+      "codes": [
+        "DD91-8FAF"
+      ],
+      "reason": "DD91-8FAF: $C05667 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Shows Some Invisible Objects",
+      "codes": [
+        "DDBD-E764"
+      ],
+      "reason": "DDBD-E764: $C09B0E uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Skip Intro Screens",
+      "codes": [
+        "C2DA-8F6D"
+      ],
+      "reason": "C2DA-8F6D: $C002C6 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Skip The Room With The Six Doors In Bowser's Castle And Go Directly To The Battle With Magi Koopa",
+      "codes": [
+        "DC0C-8589",
+        "F508-80E9",
+        "1B08-8979"
+      ],
+      "reason": "DC0C-8589: $DD46AE uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Stay At Any Inn For Free",
+      "codes": [
+        "CEA9-77AF",
+        "C9A1-77DF",
+        "7DA1-77AF"
+      ],
+      "reason": "CEA9-77AF: $C0C45F uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Unlimited Flower Points",
+      "codes": [
+        "3ECD-7765"
+      ],
+      "reason": "3ECD-7765: $C1AC0E uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Unlock Culex's Door",
+      "codes": [
+        "F99D-7D40",
+        "B99D-7DC0",
+        "DD9D-7D30"
+      ],
+      "reason": "F99D-7D40: $C95000 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Very Cheap Stores",
+      "codes": [
+        "6D72-7FAE",
+        "CB72-740E",
+        "ED72-746E"
+      ],
+      "reason": "6D72-7FAE: $C33CD7 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "Walk Through Walls",
+      "codes": [
+        "6D59-8F11",
+        "6D55-8411",
+        "6D5F-8731",
+        "6D5E-5F31"
+      ],
+      "reason": "6D59-8F11: $C97A55 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "1B8A0625",
+      "title": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "cheat": "You Can Win Battles With Some Enemies Still On The Screen",
+      "codes": [
+        "0D89-84D8"
+      ],
+      "reason": "0D89-84D8: $C2BE58 uses a dynamic SA-1 Super MMC window. There is no single safe ROM offset."
+    },
+    {
+      "crc32": "329024C7",
+      "title": "Super Tetris 3 (Japan) (En)",
+      "cheat": "All Puzzles Complete",
+      "codes": [
+        "EED5-F30D",
+        "EED5-F36D",
+        "EED5-F3AD",
+        "EED5-FEDD",
+        "EED5-FE0D",
+        "EED5-FE6D",
+        "EED5-FEAD",
+        "EED6-FADD",
+        "EED6-FA0D",
+        "EED6-FA6D",
+        "EED6-FAAD",
+        "EED6-F2DD",
+        "EED6-F20D"
+      ],
+      "reason": "EED5-F30D: $700079 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "EF968ED1",
+      "title": "Tecmo Secret of the Stars (USA)",
+      "cheat": "Able To Save In Battle",
+      "codes": [
+        "2542-8E53"
+      ],
+      "reason": "2542-8E53: $FF2ADD points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "130B0933",
+      "title": "Timecop (USA)",
+      "cheat": "Officer Jenny Has Float Jump",
+      "codes": [
+        "E4B1-230F"
+      ],
+      "reason": "E4B1-230F: $709769 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "2B88BEE8",
+      "title": "Top Gear 2 (USA)",
+      "cheat": "Everything Is Free",
+      "codes": [
+        "0BC4-9EED"
+      ],
+      "reason": "0BC4-9EED: $7CA12F points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "94EAE7E4",
+      "title": "Wayne's World (Europe)",
+      "cheat": "Infinite Health",
+      "codes": [
+        "17DC-FEA2"
+      ],
+      "reason": "17DC-FEA2: $7304AF points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    },
+    {
+      "crc32": "D8FDDD76",
+      "title": "Wizardry V - Heart of the Maelstrom (USA)",
+      "cheat": "Max Bonus Points for New Characters",
+      "codes": [
+        "04A4-72DA",
+        "04A4-73D3"
+      ],
+      "reason": "04A4-72DA: $F3C024 points to cartridge SRAM according to its header. It is not ROM and cannot be patched statically."
+    }
+  ],
+  "unverified_games_omitted": [
+    {
+      "crc32": "F70F2A95",
+      "title": "Energy Breaker (Japan)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "AC8E409E",
+      "title": "Mega Man (World) (REV-B) (NES Conversion) (Aftermarket) (Unl)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "2A059E29",
+      "title": "Metroid (World) (REV-E) (NES Conversion) (Aftermarket) (Unl)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "8D258553",
+      "title": "Mickey to Minnie - Magical Adventure 2 (Japan)",
+      "reason": "Mickey to Minnie - Magical Adventure 2 (Japan).sfc: The RESET vector of the detected header does not point to ROM. The image may be interleaved, damaged or not a compatible SNES ROM."
+    },
+    {
+      "crc32": "78CD52D5",
+      "title": "Mr. Tuff (Europe) (En,Fr,De,Es,It) (Proto 3)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "DA105A27",
+      "title": "Nekketsu Tairiku - Burning Heroes (Japan)",
+      "reason": "Nekketsu Tairiku - Burning Heroes (Japan).sfc: The RESET vector of the detected header does not point to ROM. The image may be interleaved, damaged or not a compatible SNES ROM."
+    },
+    {
+      "crc32": "675B6382",
+      "title": "RPG Tsukuru 2 (Japan)",
+      "reason": "RPG Tsukuru 2 (Japan).sfc: Detected a BS-X cartridge with an unsupported special map."
+    },
+    {
+      "crc32": "133E1C5B",
+      "title": "Same Game (Japan)",
+      "reason": "Same Game (Japan).sfc: Detected a BS-X cartridge with an unsupported special map."
+    },
+    {
+      "crc32": "38726EC1",
+      "title": "SD The Great Battle - Aratanaru Chousen (Japan)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "84F95868",
+      "title": "Super Bombliss (Japan) (En)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "A9FB97E9",
+      "title": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 2)",
+      "reason": "no exact CRC32 + SHA-256 + size match"
+    },
+    {
+      "crc32": "40242231",
+      "title": "X-Men vs. Street Fighter (USA) (Pirate)",
+      "reason": "X-Men vs. Street Fighter (USA) (Pirate).sfc: The RESET vector of the detected header does not point to ROM. The image may be interleaved, damaged or not a compatible SNES ROM."
+    },
+    {
+      "crc32": "8E39A006",
+      "title": "Ys III - Wanderers from Ys (Japan)",
+      "reason": "Ys III - Wanderers from Ys (Japan).sfc: The detected cartridge uses a special map that does not yet have a verifiable static translation."
+    },
+    {
+      "crc32": "64A91E64",
+      "title": "Ys III - Wanderers from Ys (USA)",
+      "reason": "Ys III - Wanderers from Ys (USA).sfc: The detected cartridge uses a special map that does not yet have a verifiable static translation."
+    }
+  ],
+  "duplicates_removed": {
+    "cheats": 578,
+    "codes_within_cheat": 9,
+    "mapper_equivalent_codes": 2
+  },
+  "validation_note": "Every bundled game revision was matched against an exact ROM by CRC32, SHA-256 and size. Every retained cheat was then validated against that ROM's detected mapper. Runtime validation remains enabled as a safety check. Game Genie codes do not include an expected original byte, so functional behavior still requires emulator or hardware testing."
+}
