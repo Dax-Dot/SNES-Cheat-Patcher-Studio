@@ -105,7 +105,9 @@ The application is free software released under the
 [GNU GPL v3 or later](LICENSE). Third-party data and project credits are listed
 in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 
-Inspired by [Mte90's Game-Genie-Good-Guy](https://github.com/Mte90/Game-Genie-Good-Guy/) project.
+Parts of the SNES Game Genie decoding logic were adapted from
+[Mte90's Game-Genie-Good-Guy](https://github.com/Mte90/Game-Genie-Good-Guy/)
+project. See [ATTRIBUTIONS.md](ATTRIBUTIONS.md) for details.
 
 ## Feedback and issues
 

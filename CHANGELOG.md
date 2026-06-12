@@ -8,6 +8,8 @@ Notable user-facing changes are documented here.
 - Added multiplatform automated checks for Windows, Linux, and macOS.
 - Improved package metadata and Windows portable-build preparation.
 - Kept the patching engine and bundled cheat catalog unchanged.
+- Clarified attribution for SNES Game Genie decoding logic adapted from
+  Mte90/Game-Genie-Good-Guy.
 
 ## 0.6.1 - 2026-06-11
 

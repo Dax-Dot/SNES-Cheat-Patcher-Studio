@@ -5,14 +5,17 @@ copyrighted game assets.
 
 ## Game-Genie-Good-Guy
 
-This project was inspired by the workflow and ideas in
+Parts of the SNES Game Genie decoding logic were adapted from
 [Mte90/Game-Genie-Good-Guy](https://github.com/Mte90/Game-Genie-Good-Guy/),
-which demonstrates how SNES Game Genie codes can be converted into permanent
-ROM modifications.
+a GPL-3.0-licensed project.
 
-SNES Cheat Patcher Studio provides its own mapper-aware patching engine, ROM
-identification, catalog validation, conflict handling, checksum repair, tests,
-and Tkinter interface.
+SNES Cheat Patcher Studio reimplements and extends that functionality in Python
+with its own ROM inspection, mapper-aware address translation, static patch
+validation, ROM-revision identification, conflict handling, checksum repair,
+tests, catalog integration, and Tkinter interface.
+
+Game-Genie-Good-Guy remains copyright its respective authors and contributors.
+Its original source code is available from the project linked above.
 
 ## Cheat data
 
@@ -34,5 +37,6 @@ it does not contain ROM data.
 
 ## License
 
-The original source code in this repository is licensed under
-GPL-3.0-or-later. See [LICENSE](LICENSE) and [COPYRIGHT](COPYRIGHT).
+SNES Cheat Patcher Studio is distributed under GPL-3.0-or-later. See
+[LICENSE](LICENSE), [COPYRIGHT](COPYRIGHT), and the notices above for third-party
+credits and copyright information.

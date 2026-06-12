@@ -46,6 +46,14 @@ python -m PyInstaller --noconfirm --clean --windowed --onedir ^
   run_gui.py
 if errorlevel 1 goto :error
 
+rem Include license and third-party notices with the portable Windows build.
+copy /y "LICENSE" "dist\SNES-Cheat-Patcher-Studio\LICENSE" >nul
+if errorlevel 1 goto :error
+copy /y "COPYRIGHT" "dist\SNES-Cheat-Patcher-Studio\COPYRIGHT" >nul
+if errorlevel 1 goto :error
+copy /y "ATTRIBUTIONS.md" "dist\SNES-Cheat-Patcher-Studio\ATTRIBUTIONS.md" >nul
+if errorlevel 1 goto :error
+
 echo.
 echo ============================================================
 echo Build complete.

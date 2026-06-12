@@ -13,6 +13,19 @@ Design principles:
 * The original ROM is never overwritten (atomic write via a temporary file).
 """
 
+# SNES Cheat Patcher Studio
+# Copyright (C) 2026 Dax-Dot
+#
+# Portions of the SNES Game Genie decoding logic are adapted from
+# Mte90/Game-Genie-Good-Guy, licensed under GPL-3.0.
+# https://github.com/Mte90/Game-Genie-Good-Guy
+#
+# Additional ROM inspection, mapper translation, validation, patch planning,
+# checksum repair, and safety logic are part of SNES Cheat Patcher Studio.
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+
 from __future__ import annotations
 
 from dataclasses import dataclass

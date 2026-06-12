@@ -1,5 +1,10 @@
 SNES Cheat Patcher Studio
 Copyright (C) 2026 Dax-Dot
 
+Portions of the SNES Game Genie decoding logic are adapted from
+Mte90/Game-Genie-Good-Guy and remain copyright their respective
+authors and contributors.
+
 This program is free software licensed under GPL-3.0-or-later.
-See LICENSE for the complete license text.
+See LICENSE for the complete license text and ATTRIBUTIONS.md for
+third-party credits.
